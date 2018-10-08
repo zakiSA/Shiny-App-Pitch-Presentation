@@ -1,6 +1,6 @@
 # Shiny-App-Pitch-Presentation
 
-The Pitch Presentation for this App can be viewd on github pages from the following link
+The Pitch Presentation was produced using Slidify and can be viewd on directly from the following link
 https://zakisa.github.io/Shiny-App-Pitch-Presentation
 
 The Shiny App: Body Mass Index Predictor
