@@ -1,5 +1,5 @@
 ---
-title: "BMIProjPresentation"
+title: "BMI and Health Status Predictor"
 author: "S Zaki"
 date: "10/8/2018"
 output: slidy_presentation
