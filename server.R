@@ -50,7 +50,7 @@ shinyServer(function(input,output) {
             abline(model1,col="red",lwd=3)
         }
         else if(input$gender=="Male") {
-            points(wtInput,model1pred() ,col="blue",pch=16,cex=2,lwd=2)
+            points(wtInput,model2pred() ,col="blue",pch=16,cex=2,lwd=2)
             abline(model2,col="blue",lwd=3)
         }    
         
