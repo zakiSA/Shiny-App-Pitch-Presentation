@@ -1,4 +1,4 @@
-# Shiny-App-Pitch-Presentation
+# Shiny-App-Pitch-Presentation: BMI Predictor
 
 
 The Pitch Presentation was produced using Slidify and can be viewd directly from the following link
